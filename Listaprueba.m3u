@@ -1,34 +1,3 @@
 #EXTM3U
 
-#EXTINF:-1, La Liga TV
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV34E0OeF4K_79eZdNzUU9AnIPS6ZCVzYNYk2ATFLTEQCV/m3u8
-
-#EXTINF:-2, La Liga 1
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV3-jfdNoO9nnrugKkuefptK4S9KJlmMuuHPDTxzB1FMaj/m3u8
-
-#EXTINF:3, La Liga 2 HD
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV3-jfdNoO9nnrugKkuefptK4ghyW9DbNDIuM7o1tsHNRw/m3u8
-
-#EXTINF:-4, La Liga 3 HD
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV3-jfdNoO9nnrugKkuefptK5J99UqxOpQZFH3UMh2E7oh/m3u8
-
-#EXTINF:-5, Movistas Liga de campeones
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV3-jfdNoO9nnrugKkuefptK6HSNDtYsHZnpy8I62zN0-z/m3u8
-
-#EXTINF:-6, Movistar liga de campeones 2
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV3-jfdNoO9nnrugKkuefptK7aObaauBlgTuVy3wp-YQZh/m3u8
-
-#EXTINF:-7, Movistar liga de campeones 3
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV3-jfdNoO9nnrugKkuefptK5vj_25s8yBcjD7wGuyoWdm/m3u8
-
-#EXTINF:-8, DAZN 1 HD
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV3-5oldLkcCANxXJvQAjuEgpDuabgYs_2QprId4coe4wq/m3u8
-
-#EXTINF:-9, DAZN 2
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV38PauXa6cZMsuugbXQAjdS6RoZSltAmyM2MjbjH3HGcV/m3u8
-
-#EXTINF:-10, DAZN 3
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV38PauXa6cZMsuugbXQAjdS7CPXb-MWtRNYmCZLjuBqBT/m3u8
-
-#EXTINF:-11, DAZN 4
-http://trial.myinstanttv.com:8080/play/EkM9QorE4tXF5w04WSmV38PauXa6cZMsuugbXQAjdS6I7QYZiucHBAXDaKtLlM_7/m3u8
+#EXTINF:-1, tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-seriesmania.jpg"  MOVISTAR SERIES MANIA HD http://xtra.xcs521.cz:8080/00:1A:79:17:00:4A/ziajdjjfdifjd64646/38392
