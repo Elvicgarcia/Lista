@@ -1,22 +1,16 @@
- #EXTM3U
+#EXTM3U
 
 #EXTINF:-1, VPI
 https://stream-09.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW404sjTySWQknVEFaE8WlAU)/dm/3/x7zfpo2/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
-
 #EXTINF:-2, Telemundo
 https://vp01-telemundosd.delivery.fuugo.com/ngrp:vp01-Telemundo_SD-147c97bb_all/playlist.m3u8?ex=1619854989&ul=37&sf=89df4496ffd0639dad217f52d736413c
-
-#EXTINF:-3,  Televen
+#EXTINF:-3, Televen
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
-
 #EXTINF:-4, Caracol tv
 https://pe-p1-p-e-xm1.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_450.m3u8?aid=574462d1cab0f4d50866f001&pid=iLWFDAU0arIxOxD6KFSQWXHlNTga47He&sid=UMhoDVtsFTwyw84WgVo6GS5kKe2vTrbZ&uid=EuwDW66YlzBQfh5SX8CAZRMphMyxiIVz&es=pe-p1-p-e-xm1.cdn.mdstrm.com&ote=1620159660121&ot=fM6i_NpOP-BPRdpbeb7Yvw&proto=https&pz=us
-
 #EXTINF:-5, RCN HD
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXU9nFR6P62FfBQS3GzHIBA)/dm/3/x7vyv0z/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
-
 #EXTINF:-6, NTN24
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7zFVKWxFPKVdIK9zTMAQ_U)/dm/3/x7w4okl/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
-
 #EXTINF:-7, DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
