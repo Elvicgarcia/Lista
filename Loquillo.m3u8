@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1, Telemundo
+https://h1.ustvgo.la/Telemundo/myStream/chunks.m3u8?nimblesessionid=17471783&wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjEgNToxNzozMSBQTSZoYXNoX3ZhbHVlPUNWbktHWmNQaXFpK1VhUGsyWWhSWVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, RCN
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXU9nFR6P62FfBQS3GzHIBA)/dm/3/x7vyv0z/s/live-3.m3u8
