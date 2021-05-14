@@ -1,6 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1, Telemundo
-https://h1.ustvgo.la/Telemundo/myStream/chunks.m3u8?nimblesessionid=17471783&wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjEgNToxNzozMSBQTSZoYXNoX3ZhbHVlPUNWbktHWmNQaXFpK1VhUGsyWWhSWVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
-#EXTINF:-1, RCN
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXU9nFR6P62FfBQS3GzHIBA)/dm/3/x7vyv0z/s/live-3.m3u8
+#EXTINF:-1,ESPN sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/188
+#EXTINF:-1,ESPN 2 sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/189
+#EXTINF:-1,ESPN 3 sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/190
+#EXTINF:-1,FOX PREMIUM ACTION
+http://ultraplay.org:80/DANIEL13W/2019XTR/197
+#EXTINF:-1,FOX SPORTS 
+http://ultraplay.org:80/DANIEL13W/2019XTR/206
+#EXTINF:-1,FOX SPORTS 2
+http://ultraplay.org:80/DANIEL13W/2019XTR/208
+#EXTINF:-1,FOX SPORTS 3
+http://ultraplay.org:80/DANIEL13W/2019XTR/210
+#EXTINF:-1,FOX SPORTS cl
+http://ultraplay.org:80/DANIEL13W/2019XTR/66495
+#EXTINF:-1,DIRECTV
+http://ultraplay.org:80/DANIEL13W/2019XTR/66500
+#EXTINF:-1,LA LIGA
+http://ultraplay.org:80/DANIEL13W/2019XTR/95863
+#EXTINF:-1,CLARO SPORTS
+http://ultraplay.org:80/DANIEL13W/2019XTR/170
+#EXTINF:-1,TUDN
+http://ultraplay.org:80/DANIEL13W/2019XTR/95821
+#EXTINF:-1,SKY SPORTS 
+http://ultraplay.org:80/DANIEL13W/2019XTR/95865
+#EXTINF:-1,MovistarF1
+http://ytv.plus:25461/lupita/1234/1640
+#EXTINF:-1,TYC SPORTS
+http://ytv.plus:25461/lupita/1234/2938
+#EXTINF:-1,UFC FIGHT PASS
+http://ytv.plus:25461/lupita/1234/1915
+#EXTINF:-1,ESPN sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8690
+#EXTINF:-1,ESPN 2 sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/70752
+#EXTINF:-1,ESPN 3 sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3032
+#EXTINF:-1,WIN SPORTS+
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/65774
+#EXTINF:-1,FOX SPORTS sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/29299
+#EXTINF:-1,FOX SPORTS 2 sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3187
+#EXTINF:-1,FOX SPORTS 3 sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10921
+#EXTINF:-1,DIRECTV
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/31645
+#EXTINF:-1,CLARO SPORTS
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3012
+#EXTINF:-1,TUDN us
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/121424
+#EXTINF:-1,TNT SPORTS ch
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/65769
+#EXTINF:-1,GOL TV ec
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9163
+#EXTINF:-1,MovistarF1
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1672
+#EXTINF:-1,TYC SPORTS
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8749
+#EXTINF:-1,La.LIGA
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1141
+#EXTINF:-1,DAZN 1
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/64711
+#EXTINF:-1,SPORT TV 1
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1483
+#EXTINF:-1,UFC PASS
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/45649
